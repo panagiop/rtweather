@@ -33,7 +33,7 @@
             text: 'Real-Time Temperature Variations in the city of Patras, Greece'
         },
         subtitle: {
-            text: 'Data are collected from a station located at King Georges square, every 2 minutes'
+            text: 'Data are collected from a station located at NAME_OF_THE_STATION, every 2 minutes'
         },
         xAxis: {
             type: 'datetime',
