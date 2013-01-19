@@ -30,7 +30,7 @@
             }
         },
         title: {
-            text: 'Real-Time Temperature Variations in the city of Patras, Greece'
+            text: 'Real-Time Temperature Variations in the city of San Francisco, CA'
         },
         subtitle: {
             text: 'Data are collected from a station located at NAME_OF_THE_STATION, every 2 minutes'
