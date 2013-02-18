@@ -8,7 +8,7 @@
             shift = series.data.length > 300; 
             // add the point
             chart.series[0].addPoint(point, true, shift);
-            // call it again after 10 seconds
+            // call it again after 2 minutes
             setTimeout(requestData, 120000);    
         },
         cache: false
